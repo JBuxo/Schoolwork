@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "lato", sans-serif;
+}
+
+table{
+    color:#333333;
+    border: none;
+    text-align: center;
+}
+
+.headings{
+    color: #ffffff;
+    background-color: #90b4d6;
+    text-align: center;
+    letter-spacing: 2px;
+    height: 40px;
+    
+}
+
+.headingbold{
+    Padding: 5px 30px 5px 10px;
+    font-size: 18px;
+    Margin: 0;
+    Text-align: left;
+    Background-color: #84b3ad;
+    
+}
+
+.data{
+    Padding: 5px 30px 5px 10px;
+    font-size: 18px;
+    Margin: 0;
+    text-align:  left;
+    Background-color: #84b3ad;
+    Width: 150px;
+    
+
+}
+
+tr:nth-child(even) td, tr:nth-child(even) th {
+    Background-color: #689ad8;
+
+}
+
